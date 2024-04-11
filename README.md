@@ -1,0 +1,10 @@
+### NETFLIX-CLONE PROJECT
+
+### REACT-REDUX
+### TAILWIND
+### TMDB(DATABASE API)
+### HOOKLAR KULLANILDI
+
+### GIF
+
+![](public/2024-04-12%2000-07-02.gif)# Netflix-Clone
